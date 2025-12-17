@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Вітаю!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Вітаю вас на сторінці мого портфоліо. Даний вебсайт містить інформацію
+про мою навчальну та практичну діяльність, набуті навички, виконані
+проєкти та підхід до вирішення поставлених завдань.
 
-## Commands
+Я здобуваю знання у сфері інформаційних технологій, опановую сучасні
+інструменти розробки програмного забезпечення та постійно працюю над
+підвищенням рівня своєї професійної підготовки.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![Моє фото](images/photo_1.jpg)

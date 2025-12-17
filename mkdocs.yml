@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: Портфоліо Уляни Ільчук
+
+nav:
+  - Головна: index.md
+  - Про мене: about.md
+  - Мої проєкти: projects.md
+  - Процес роботи: workflow.md
+
+theme:
+  name: mkdocs
